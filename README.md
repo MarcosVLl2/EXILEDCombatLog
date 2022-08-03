@@ -2,8 +2,11 @@
 A simple (still WIP) combat log for SCP:SL servers in the EXILED framework
 
 ## Installation
-Windows: Put the plugin (.dll) in %appdata%/Exiled/Plugins 
-Linux: Put the plugin (.dll) in ~/.config/EXILED/Plugins
+### Windows: 
+Put the plugin (.dll) in %appdata%/Exiled/Plugins 
+
+### Linux: 
+Put the plugin (.dll) in ~/.config/EXILED/Plugins
 
 ## Settings:
 Settings are yet to be implemented, I aim to make my plugins highly dynamic and customizable so anyone can use them in any situation.
